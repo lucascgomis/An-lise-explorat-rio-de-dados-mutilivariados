@@ -1,2 +1,2 @@
-# Analise-explorat-rio-de-dados-mutilivariados
+# Analise-exploratoria-de-dados-mutilivariados
 Este repositório contém os códigos de uma atvidade prática da disciplina ME731 (Análise Multivariada) da UNICAMP, trata-se de análise exploratória de um conjunto de dados sobre características de modelos de celular. O banco de dados está disponível para download no kaggle (https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification) assim como neste repositório. Vale resaltar que foi utilizado o conjunto de teste apenas pelo fato de ser mais leve, uma vez que o escopo do trabalho restringe-se apenas a análise exploratória.
